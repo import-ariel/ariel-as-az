@@ -1,0 +1,1 @@
+This project was undertaken during a 5-week course on learning Python. The class aimed to introduce Python to students who were unfamiliar with the language and accelerate their learning to be able to write functions after 5 weeks. 
