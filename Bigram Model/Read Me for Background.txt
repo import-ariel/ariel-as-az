@@ -1,1 +1,5 @@
-This project was undertaken during a 5-week course on learning Python. The class aimed to introduce Python to students who were unfamiliar with the language and accelerate their learning to be able to write functions after 5 weeks. 
+This project was undertaken during a 5-week course on learning Python. The class aimed to introduce Python to students who were unfamiliar with the language and accelerate their learning to be able to write functions after 5 weeks. This project is the class's final output. 
+
+The goal: implement a bigram model of the text "Walden." 
+
+I have two files, in addition to the data. In the first, I complete data preprocessing. In the secon, I built and customized the bigram model to generate 100 sentences based on Thoreau's "Walden."
